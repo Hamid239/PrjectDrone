@@ -1,0 +1,1 @@
+echo "temppwd" |  /home/debian/prerun.sh 
